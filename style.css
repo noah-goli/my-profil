@@ -1,0 +1,105 @@
+/* colors and font*/
+body {
+	background-color: rgb(230, 230, 230);
+	font-family: sans-serif;
+	font-size: 16px;
+	}
+
+h1 { 
+color: rgb(139, 69, 19);
+font-family: brush script MT;
+font-size: 40px;
+}
+
+h2 { 
+color: rgb(139, 69, 19);
+font-family: brush script MT;
+font-weight: 900;
+font-size: 30px;
+}
+
+a { 
+	text-decoration: none;
+	color: rgb(102,153, 204)
+	}
+a:hover { 
+	color: black;
+	}
+
+
+
+
+.container { 
+	width: 700px;
+	margin: 40px auto;
+
+	}
+
+.card-white{ 
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+	}
+
+.img-circle { 
+	border-radius: 100%;
+	}
+
+.btn-blue { 
+	background-color: rgb(102, 153, 204);
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px
+
+
+	}
+
+.list-inline { 
+	list-style: none;
+	padding-left: 0px;
+	}
+
+.btn-red { 
+	background-color: rgb(102, 153, 204);
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	}
+
+#intro p { 
+	margin-bottom: 40px;
+
+	}
+
+
+	img {  
+max-width: 25%;
+height: auto;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
